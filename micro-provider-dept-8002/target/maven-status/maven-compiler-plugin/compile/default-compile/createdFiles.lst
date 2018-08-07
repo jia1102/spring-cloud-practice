@@ -1,0 +1,5 @@
+com\eric\dao\DeptDao.class
+com\eric\controller\DeptController.class
+com\eric\service\DeptService.class
+com\eric\MicroProviderDept8002App.class
+com\eric\service\impl\DeptServiceImpl.class

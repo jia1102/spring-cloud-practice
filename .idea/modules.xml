@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Micro-Maven.iml" filepath="$PROJECT_DIR$/Micro-Maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-common/micro-common.iml" filepath="$PROJECT_DIR$/micro-common/micro-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-consumer-dept-9100/micro-consumer-dept-9100.iml" filepath="$PROJECT_DIR$/micro-consumer-dept-9100/micro-consumer-dept-9100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-consumer-dept-feign-9200/micro-consumer-dept-feign-9200.iml" filepath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/micro-consumer-dept-feign-9200.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-entities/micro-entities.iml" filepath="$PROJECT_DIR$/micro-entities/micro-entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-eureka-7000/micro-eureka-7000.iml" filepath="$PROJECT_DIR$/micro-eureka-7000/micro-eureka-7000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-eureka-7001/micro-eureka-7001.iml" filepath="$PROJECT_DIR$/micro-eureka-7001/micro-eureka-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-eureka-7002/micro-eureka-7002.iml" filepath="$PROJECT_DIR$/micro-eureka-7002/micro-eureka-7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-hystrix-dashboard/micro-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/micro-hystrix-dashboard/micro-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-provider-dept-8000/micro-provider-dept-8000.iml" filepath="$PROJECT_DIR$/micro-provider-dept-8000/micro-provider-dept-8000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-provider-dept-8001/micro-provider-dept-8001.iml" filepath="$PROJECT_DIR$/micro-provider-dept-8001/micro-provider-dept-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-provider-dept-8002/micro-provider-dept-8002.iml" filepath="$PROJECT_DIR$/micro-provider-dept-8002/micro-provider-dept-8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-provider-dept-8003/micro-provider-dept-8003.iml" filepath="$PROJECT_DIR$/micro-provider-dept-8003/micro-provider-dept-8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-zuul-api-gateway/micro-zuul-api-gateway.iml" filepath="$PROJECT_DIR$/micro-zuul-api-gateway/micro-zuul-api-gateway.iml" />
+    </modules>
+  </component>
+</project>

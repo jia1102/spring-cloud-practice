@@ -1,0 +1,41 @@
+server:
+  port: 8001
+
+mybatis:
+  config-location: classpath:mybatis/mybatis.cfg.xml        # mybatis配置文件所在路径
+  type-aliases-package: com.eric.entities    # 所有Entity别名类所在包
+  mapper-locations:
+  - classpath:mybatis/mapper/**/*.xml
+
+spring:
+  application:
+    name: micro-provider-dept
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource            # 当前数据源操作类型
+    driver-class-name: org.gjt.mm.mysql.Driver              # mysql驱动包
+    url: jdbc:mysql://10.10.8.140:3306/cloudDB01              # 数据库名称
+    username: root
+    password: 123456
+    dbcp2:
+      min-idle: 5                                           # 数据库连接池的最小维持连接数
+      initial-size: 5                                       # 初始化连接数
+      max-total: 5                                          # 最大连接数
+      max-wait-millis: 200
+
+eureka:
+  client:
+#    healthcheck:
+#      enabled: true
+    service-url: #客户端注册进eureka服务列表内
+      defaultZone: http://Eureka7000:7000/eureka/,http://Eureka7001:7001/eureka/,http://Eureka7002:7002/eureka/
+  instance:
+    instanceId: ${spring.application.name}_${server.port}
+    prefer-ip-address: true     #访问路径可以显示IP地址
+    leaseRenewalIntervalInSeconds: 5 #租期更新时间间隔（默认30秒）
+    leaseExpirationDurationInSeconds: 15 #租期到期时间（默认90秒）
+
+info:
+  app.name: micro-maven-practise
+  company.name: eric
+  build.artifactId: micro-provider-dept-8001
+  build.version: 0.0.1-SNAPSHOT

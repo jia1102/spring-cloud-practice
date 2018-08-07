@@ -1,0 +1,6 @@
+com\eric\service\DeptConsumerFeignClient.class
+com\eric\service\DeptConsumerFeignClient$DeptConsumerFeignClientFallbackFactory$1.class
+com\eric\controller\DeptConsumerController.class
+com\eric\config\RuleConfigBean.class
+com\eric\DeptConsumer9200App.class
+com\eric\service\DeptConsumerFeignClient$DeptConsumerFeignClientFallbackFactory.class

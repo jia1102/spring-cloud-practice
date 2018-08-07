@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="micro-common" />
+        <module name="micro-consumer-dept-9100" />
+        <module name="micro-consumer-dept-feign-9200" />
+        <module name="micro-entities" />
+        <module name="micro-eureka-7000" />
+        <module name="micro-eureka-7001" />
+        <module name="micro-eureka-7002" />
+        <module name="micro-hystrix-dashboard" />
+        <module name="micro-provider-dept-8000" />
+        <module name="micro-provider-dept-8001" />
+        <module name="micro-provider-dept-8002" />
+        <module name="micro-provider-dept-8003" />
+        <module name="micro-zuul-api-gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="micro-common" target="1.8" />
+      <module name="micro-consumer-dept-9100" target="1.8" />
+      <module name="micro-consumer-dept-feign-9200" target="1.8" />
+      <module name="micro-entities" target="1.8" />
+      <module name="micro-eureka-7000" target="1.8" />
+      <module name="micro-eureka-7001" target="1.8" />
+      <module name="micro-eureka-7002" target="1.8" />
+      <module name="micro-hystrix-dashboard" target="1.8" />
+      <module name="Micro-Maven" target="1.8" />
+      <module name="micro-provider-dept-8000" target="1.8" />
+      <module name="micro-provider-dept-8001" target="1.8" />
+      <module name="micro-provider-dept-8002" target="1.8" />
+      <module name="micro-provider-dept-8003" target="1.8" />
+      <module name="micro-zuul-api-gateway" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
