@@ -1,401 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c7ed43d-03eb-498b-aa62-2282ab6341d7" name="Default" comment="练习git项目">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_31.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_8_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_8_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_8_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_internal_0_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_0_27_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_0_27_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_0_27_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_0_27_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_0_27_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_0_27_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_0_27_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_websocket_javax_websocket_api_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_55.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_55.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_annotations_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_client_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_plus_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlets_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_javax_websocket_client_impl_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_javax_websocket_server_impl_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_server_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_servlet_9_4_7_v20170914.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_27_incubating.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_animal_sniffer_annotation_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jasper_apache_el_8_0_33.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_commons_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_tree_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jetty_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_1_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_1_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_1_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_1_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_1_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_1_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_1_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_archaius_1_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_1_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_1_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_server_1_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_feign_1_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_1_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_dashboard_1_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_ribbon_1_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_zuul_1_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_4_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_springloaded_1_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Micro-Maven.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-common/micro-common.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-common/src/main/java/com.eric/common/ReflectUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-common/target/Micro-Maven.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-common/target/classes/com/eric/common/ReflectUtil$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-common/target/classes/com/eric/common/ReflectUtil$DynamicBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-common/target/classes/com/eric/common/ReflectUtil$DynamicBean2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-common/target/classes/com/eric/common/ReflectUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-common/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-9100/micro-consumer-dept-9100.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-9100/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-9100/src/main/java/com/eric/DeptConsumer9100App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-9100/src/main/java/com/eric/cfgbeans/ConfigBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-9100/src/main/java/com/eric/controller/DeptConsumerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-9100/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-9100/target/Micro-Maven.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-9100/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-9100/target/classes/com/eric/DeptConsumer9100App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-9100/target/classes/com/eric/cfgbeans/ConfigBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-9100/target/classes/com/eric/controller/DeptConsumerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-9100/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-9100/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-9100/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/micro-consumer-dept-feign-9200.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/DeptConsumer9200App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/config/RuleConfigBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/controller/DeptConsumerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/service/DeptConsumerFeignClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/resources/META-INF/additional-spring-configuration-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/Micro-Maven.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/classes/META-INF/additional-spring-configuration-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/classes/com/eric/DeptConsumer9200App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/classes/com/eric/config/RuleConfigBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/classes/com/eric/controller/DeptConsumerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/classes/com/eric/service/DeptConsumerFeignClient$DeptConsumerFeignClientFallbackFactory$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/classes/com/eric/service/DeptConsumerFeignClient$DeptConsumerFeignClientFallbackFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/classes/com/eric/service/DeptConsumerFeignClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-entities/micro-entities.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-entities/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-entities/src/main/java/com/eric/MicroEntitiesApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-entities/src/main/java/com/eric/entities/Dept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-entities/src/main/java/com/eric/entities/LoggerEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-entities/target/Micro-Maven.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-entities/target/classes/com/eric/MicroEntitiesApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-entities/target/classes/com/eric/entities/Dept.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-entities/target/classes/com/eric/entities/LoggerEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-entities/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-entities/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-entities/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7000/micro-eureka-7000.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7000/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7000/src/main/java/com/eric/Eureka7000App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7000/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7000/target/Micro-Maven.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7000/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7000/target/classes/com/eric/Eureka7000App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7000/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7000/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7000/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7001/micro-eureka-7001.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7001/src/main/java/com/eric/Eureka7001App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7001/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7001/target/Micro-Maven.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7001/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7001/target/classes/com/eric/Eureka7001App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7001/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7001/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7002/micro-eureka-7002.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7002/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7002/src/main/java/com/eric/Eureka7002App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7002/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7002/target/Micro-Maven.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7002/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7002/target/classes/com/eric/Eureka7002App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7002/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7002/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-eureka-7002/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-hystrix-dashboard/micro-hystrix-dashboard.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-hystrix-dashboard/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-hystrix-dashboard/src/main/java/com/eric/HystrixDashboardApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-hystrix-dashboard/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-hystrix-dashboard/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-hystrix-dashboard/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-hystrix-dashboard/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/micro-provider-dept-8000.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/src/main/java/com/eric/MicroProviderDeptApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/src/main/java/com/eric/controller/DeptController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/src/main/java/com/eric/dao/DeptDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/src/main/java/com/eric/service/DeptService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/src/main/java/com/eric/service/impl/DeptServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/src/main/resources/mybatis/mapper/DeptMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/src/main/resources/mybatis/mybatis.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/target/Micro-Maven.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/target/classes/com/eric/MicroProviderDeptApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/target/classes/com/eric/controller/DeptController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/target/classes/com/eric/dao/DeptDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/target/classes/com/eric/service/DeptService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/target/classes/com/eric/service/impl/DeptServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/target/classes/mybatis/mapper/DeptMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/target/classes/mybatis/mybatis.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8001/micro-provider-dept-8001.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8001/src/main/java/com/eric/MicroProviderDept8001App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8001/src/main/java/com/eric/controller/DeptController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8001/src/main/java/com/eric/dao/DeptDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8001/src/main/java/com/eric/service/DeptService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8001/src/main/java/com/eric/service/impl/DeptServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8001/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8001/src/main/resources/mybatis/mapper/DeptMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8001/src/main/resources/mybatis/mybatis.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8001/target/Micro-Maven.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8001/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8001/target/classes/com/eric/MicroProviderDept8001App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8001/target/classes/com/eric/controller/DeptController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8001/target/classes/com/eric/dao/DeptDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8001/target/classes/com/eric/service/DeptService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8001/target/classes/com/eric/service/impl/DeptServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8001/target/classes/mybatis/mapper/DeptMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8001/target/classes/mybatis/mybatis.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8001/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8001/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/micro-provider-dept-8002.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/src/main/java/com/eric/MicroProviderDept8002App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/src/main/java/com/eric/controller/DeptController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/src/main/java/com/eric/dao/DeptDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/src/main/java/com/eric/service/DeptService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/src/main/java/com/eric/service/impl/DeptServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/src/main/resources/mybatis/mapper/DeptMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/src/main/resources/mybatis/mybatis.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/target/Micro-Maven.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/target/classes/com/eric/MicroProviderDept8002App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/target/classes/com/eric/controller/DeptController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/target/classes/com/eric/dao/DeptDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/target/classes/com/eric/service/DeptService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/target/classes/com/eric/service/impl/DeptServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/target/classes/mybatis/mapper/DeptMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/target/classes/mybatis/mybatis.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8003/micro-provider-dept-8003.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8003/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8003/src/main/java/com/eric/MicroProviderDept8003App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8003/src/main/java/com/eric/controller/DeptController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8003/src/main/java/com/eric/dao/DeptDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8003/src/main/java/com/eric/service/DeptService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8003/src/main/java/com/eric/service/impl/DeptServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8003/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8003/src/main/resources/mybatis/mapper/DeptMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8003/src/main/resources/mybatis/mybatis.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8003/target/Micro-Maven.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8003/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8003/target/classes/com/eric/MicroProviderDept8003App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8003/target/classes/com/eric/controller/DeptController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8003/target/classes/com/eric/dao/DeptDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8003/target/classes/com/eric/service/DeptService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8003/target/classes/com/eric/service/impl/DeptServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8003/target/classes/mybatis/mapper/DeptMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8003/target/classes/mybatis/mybatis.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8003/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8003/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8003/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-zuul-api-gateway/micro-zuul-api-gateway.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-zuul-api-gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-zuul-api-gateway/src/main/java/com/eric/ApiGatewayApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-zuul-api-gateway/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-zuul-api-gateway/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-zuul-api-gateway/target/classes/com/eric/ApiGatewayApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="2c7ed43d-03eb-498b-aa62-2282ab6341d7" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_4_10_0_201712302008_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_1_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-config-server-8500/micro-config-server-8500.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-config-server-8500/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_1_3_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_dashboard_1_3_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-hystrix-dashboard/micro-hystrix-dashboard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-hystrix-dashboard/micro-hystrix-dashboard.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-hystrix-dashboard/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-hystrix-dashboard/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/micro-api/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -413,6 +37,7 @@
     <ignored path="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/" />
     <ignored path="$PROJECT_DIR$/micro-hystrix-dashboard/target/" />
     <ignored path="$PROJECT_DIR$/micro-zuul-api-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/micro-config-server-8500/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -444,69 +69,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MicroProviderDeptApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/micro-provider-dept-8000/src/main/java/com/eric/MicroProviderDeptApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/micro-consumer-dept-9100/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DeptServiceImpl.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/micro-provider-dept-8003/src/main/java/com/eric/service/impl/DeptServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/micro-zuul-api-gateway/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+            <state relative-caret-position="57">
+              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApiGatewayApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/micro-zuul-api-gateway/src/main/java/com/eric/ApiGatewayApp.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/micro-config-server-8500/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="296">
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MicroProviderDept8001App.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/micro-provider-dept-8001/src/main/java/com/eric/MicroProviderDept8001App.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="10" column="65" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="65" />
+            <state relative-caret-position="-180">
+              <caret line="41" column="50" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/micro-provider-dept-8001/src/main/resources/application.yml">
+      <file leaf-file-name="DeptConsumerFeignClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/service/DeptConsumerFeignClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+            <state relative-caret-position="266">
+              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -538,11 +132,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/micro-provider-dept-8001/pom.xml" />
         <option value="$PROJECT_DIR$/micro-api/src/main/java/org/micro/api/practise_reflect/ReflectUtil.java" />
         <option value="$PROJECT_DIR$/micro-eureka-7002/pom.xml" />
         <option value="$PROJECT_DIR$/micro-eureka-7002/src/main/java/com/eric/Eureka7001App.java" />
@@ -580,7 +176,6 @@
         <option value="$PROJECT_DIR$/micro-hystrix-dashboard/src/main/java/resources/application.yml" />
         <option value="$PROJECT_DIR$/micro-hystrix-dashboard/src/main/java/com/eric/HystrixDashboardApp.java" />
         <option value="$PROJECT_DIR$/micro-hystrix-dashboard/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/micro-provider-dept-8001/src/main/java/com/eric/controller/DeptController.java" />
         <option value="$PROJECT_DIR$/micro-provider-dept-8002/src/main/java/com/eric/controller/DeptController.java" />
         <option value="$PROJECT_DIR$/micro-provider-dept-8003/pom.xml" />
         <option value="$PROJECT_DIR$/micro-hystrix-dashboard/pom.xml" />
@@ -593,6 +188,8 @@
         <option value="$PROJECT_DIR$/micro-zuul-api-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/micro-zuul-api-gateway/src/main/java/com/eric/ApiGatewayApp.java" />
         <option value="$PROJECT_DIR$/micro-zuul-api-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/micro-provider-dept-8001/src/main/java/com/eric/controller/DeptController.java" />
+        <option value="$PROJECT_DIR$/micro-config-server-8500/pom.xml" />
       </list>
     </option>
   </component>
@@ -657,7 +254,9 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -673,116 +272,28 @@
             <path>
               <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
               <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-provider-dept-8000" type="462c0819:PsiDirectoryNode" />
+              <item name="micro-config-server-8500" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
               <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-provider-dept-8000" type="462c0819:PsiDirectoryNode" />
+              <item name="micro-config-server-8500" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
               <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-provider-dept-8000" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-provider-dept-8000" type="462c0819:PsiDirectoryNode" />
+              <item name="micro-config-server-8500" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
               <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-provider-dept-8000" type="462c0819:PsiDirectoryNode" />
+              <item name="micro-config-server-8500" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="eric" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-provider-dept-8001" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-provider-dept-8001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-provider-dept-8001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-provider-dept-8001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-provider-dept-8001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="eric" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-provider-dept-8001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="eric" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-provider-dept-8001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-zuul-api-gateway" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-zuul-api-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-zuul-api-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-zuul-api-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -807,7 +318,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.432" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -848,7 +359,7 @@
     </option>
     <option name="contentProportion" value="0.33692053" />
   </component>
-  <component name="RunManager" selected="Spring Boot.MicroProviderDept8000App">
+  <component name="RunManager" selected="Spring Boot.HystrixDashboardApp">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -1083,12 +594,20 @@
       <workItem from="1533175507496" duration="15292000" />
       <workItem from="1533206117795" duration="1449000" />
       <workItem from="1533522200694" duration="6599000" />
-      <workItem from="1533541368286" duration="10148000" />
+      <workItem from="1533541368286" duration="17876000" />
     </task>
+    <task id="LOCAL-00001" summary="练习项目---spring_cloud">
+      <created>1533609723565</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533609723565</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142094000" />
+    <option name="totallyTimeSpent" value="149822000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1102,76 +621,41 @@
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50121456" side_tool="true" weight="0.3280142" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.40566802" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50121456" side_tool="true" weight="0.6846011" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.40566802" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="6" weight="0.32955465" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32955465" />
       <window_info id="Structure" order="1" sideWeight="0.50352114" side_tool="true" weight="0.2931174" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24939272" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24939272" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2287234" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32978722" />
-      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.3283859" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3283859" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.3283859" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run Dashboard" order="14" weight="0.29814816" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" sideWeight="0.49878544" weight="0.41187385" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.3283859" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49878544" weight="0.39716312" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32955465" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32955465" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32978722" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33024117" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4964789" visible="true" weight="0.2931174" />
-      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32955465" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33024117" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4964789" visible="true" weight="0.29149798" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.32955465" />
       <window_info id="Web" order="7" sideWeight="0.50352114" side_tool="true" weight="0.2931174" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="5" sideWeight="0.50352114" side_tool="true" weight="0.2931174" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24939272" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.24939272" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Spring" order="7" weight="0.32978722" />
-      <window_info id="Image Layers" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49878544" weight="0.39716312" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24939272" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" sideWeight="0.5017182" side_tool="true" weight="0.25668016" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32978722" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50121456" side_tool="true" weight="0.3280142" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32978722" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32978722" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24939272" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32978722" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.40566802" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49828178" visible="true" weight="0.30526316" />
-      <window_info anchor="right" id="Database" order="6" weight="0.32955465" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info id="Web" order="7" sideWeight="0.5017182" side_tool="true" weight="0.25668016" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Structure" order="1" sideWeight="0.5017182" side_tool="true" weight="0.25668016" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2287234" />
-      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32955465" />
-      <window_info anchor="bottom" id="Run Dashboard" order="14" visible="true" weight="0.39893618" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1181,7 +665,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="练习git项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="练习git项目" />
+    <MESSAGE value="练习项目---spring_cloud" />
+    <option name="LAST_COMMIT_MESSAGE" value="练习项目---spring_cloud" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1213,13 +698,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/micro-provider-dept-8002/src/main/java/com/eric/MicroProviderDept8002App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/micro-provider-dept-8001/src/main/java/com/eric/dao/DeptDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -1232,13 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="31" column="57" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -1322,23 +793,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/config/RuleConfigBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/service/DeptConsumerFeignClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/controller/DeptConsumerController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="79">
@@ -1385,13 +839,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/micro-hystrix-dashboard/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1465,20 +912,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/micro-hystrix-dashboard/src/main/java/com/eric/HystrixDashboardApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/micro-provider-dept-8003/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-133">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/micro-zuul-api-gateway/src/test/java/com/eric/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -1493,21 +926,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/micro-zuul-api-gateway/src/main/java/com/eric/ApiGatewayApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/micro-provider-dept-8001/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1525,31 +947,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/micro-provider-dept-8001/src/main/java/com/eric/controller/DeptController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/micro-provider-dept-8001/src/main/java/com/eric/MicroProviderDept8001App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="10" column="65" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/micro-zuul-api-gateway/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/micro-provider-dept-8000/src/main/java/com/eric/MicroProviderDeptApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -1563,7 +964,91 @@
     <entry file="file://$PROJECT_DIR$/micro-provider-dept-8003/src/main/java/com/eric/service/impl/DeptServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-zuul-api-gateway/src/main/java/com/eric/ApiGatewayApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-provider-dept-8003/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-hystrix-dashboard/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-hystrix-dashboard/src/main/java/com/eric/HystrixDashboardApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-provider-dept-8001/src/main/java/com/eric/MicroProviderDept8001App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="65" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-provider-dept-8001/src/main/java/com/eric/controller/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="25" column="73" lean-forward="true" selection-start-line="25" selection-start-column="73" selection-end-line="25" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/config/RuleConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="16" column="52" lean-forward="true" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/service/DeptConsumerFeignClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-zuul-api-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="41" column="50" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-config-server-8500/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1619,7 +1104,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>micro-provider-dept-8003</last-edited>
+          <last-edited>micro-provider-dept-8000</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

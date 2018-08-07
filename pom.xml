@@ -21,7 +21,8 @@
 		<module>micro-consumer-dept-feign-9200</module>
         <module>micro-hystrix-dashboard</module>
         <module>micro-zuul-api-gateway</module>
-    </modules>
+		<module>micro-config-server-8500</module>
+	</modules>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
