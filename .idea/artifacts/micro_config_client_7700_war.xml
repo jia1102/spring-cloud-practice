@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="micro-config-client-7700:war">
+    <output-path>$PROJECT_DIR$/micro-config-client-7700/target</output-path>
+    <root id="archive" name="micro-config-client-7700.war">
+      <element id="artifact" artifact-name="micro-config-client-7700:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -13,15 +13,16 @@
 		<module>micro-eureka-7000</module>
 		<module>micro-eureka-7001</module>
 		<module>micro-eureka-7002</module>
-		<module>micro-consumer-dept-9100</module>
+		<module>micro-config-server-7600</module>
+		<module>micro-config-client-7700</module>
 		<module>micro-provider-dept-8000</module>
 		<module>micro-provider-dept-8001</module>
 		<module>micro-provider-dept-8002</module>
 		<module>micro-provider-dept-8003</module>
+		<module>micro-consumer-dept-9100</module>
 		<module>micro-consumer-dept-feign-9200</module>
-        <module>micro-hystrix-dashboard</module>
-        <module>micro-zuul-api-gateway</module>
-		<module>micro-config-server-8500</module>
+		<module>micro-hystrix-dashboard</module>
+		<module>micro-zuul-api-gateway</module>
 	</modules>
 
 	<properties>

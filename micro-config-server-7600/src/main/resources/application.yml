@@ -1,0 +1,14 @@
+server:
+  port: 7600
+
+spring:
+  application:
+    name:  micro-config-server
+  cloud:
+      config:
+        server:
+          git:
+#            uri: git@github.com:jia1102/spring-cloud-config-practise.git #GitHub上面的git仓库名字
+#            username: jia1102
+#            password: ljch19851213
+            uri: https://github.com/jia1102/spring-cloud-config-practise.git

@@ -4,7 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Micro-Maven.iml" filepath="$PROJECT_DIR$/Micro-Maven.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro-common/micro-common.iml" filepath="$PROJECT_DIR$/micro-common/micro-common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/micro-config-server-8500/micro-config-server-8500.iml" filepath="$PROJECT_DIR$/micro-config-server-8500/micro-config-server-8500.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-config-client-7700/micro-config-client-7700.iml" filepath="$PROJECT_DIR$/micro-config-client-7700/micro-config-client-7700.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-config-server-7600/micro-config-server-7600.iml" filepath="$PROJECT_DIR$/micro-config-server-7600/micro-config-server-7600.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro-consumer-dept-9100/micro-consumer-dept-9100.iml" filepath="$PROJECT_DIR$/micro-consumer-dept-9100/micro-consumer-dept-9100.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro-consumer-dept-feign-9200/micro-consumer-dept-feign-9200.iml" filepath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/micro-consumer-dept-feign-9200.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro-entities/micro-entities.iml" filepath="$PROJECT_DIR$/micro-entities/micro-entities.iml" />
