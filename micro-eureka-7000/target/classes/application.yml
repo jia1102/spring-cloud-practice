@@ -1,5 +1,5 @@
 server:
-  port: 7000
+  port: 7003
 
 spring:
   application:
@@ -7,8 +7,8 @@ spring:
 
 eureka:
   server:
-    eviction-interval-timer-in-ms: 5
-    # enable-self-preservation: false  #禁用自我保护
+    eviction-interval-timer-in-ms: 5000
+#    enable-self-preservation: false  #禁用自我保护
   instance:
     hostname: Eureka7000 #eureka 服务端的实例名称
     instanceId: ${eureka.instance.hostname}

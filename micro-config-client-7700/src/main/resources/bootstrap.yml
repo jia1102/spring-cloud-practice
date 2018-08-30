@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: micro-config-client
+      profile: test
+      label: master
+      uri: http://micro-config-server:7600
