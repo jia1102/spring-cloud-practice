@@ -13,6 +13,7 @@ eureka:
     hostname: Eureka7000 #eureka 服务端的实例名称
     instanceId: ${eureka.instance.hostname}
     prefer-ip-address: true     #访问路径可以显示IP地址
+#    appname: 7003AppName
   client:
     register-with-eureka: true     #false表示不向注册中心注册自己。
     fetch-registry: true     #false表示自己端就是注册中心，我的职责就是维护服务实例，并不需要去检索服务

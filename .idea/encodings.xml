@@ -16,6 +16,7 @@
     <file url="file://$PROJECT_DIR$/micro-provider-dept-8001" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-provider-dept-8002" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-provider-dept-8003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-provider-elasticsearch-9500" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-zuul-api-gateway" charset="UTF-8" />
   </component>
 </project>

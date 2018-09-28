@@ -1,7 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-
 	<groupId>com.eric</groupId>
 	<artifactId>Micro-Maven</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
@@ -23,6 +22,7 @@
 		<module>micro-consumer-dept-feign-9200</module>
 		<module>micro-hystrix-dashboard</module>
 		<module>micro-zuul-api-gateway</module>
+		<module>micro-provider-elasticsearch-9500</module>
 	</modules>
 
 	<properties>
@@ -30,7 +30,7 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<junit.version>4.12</junit.version>
-		<log4j.version>1.2.17</log4j.version>
+		<log4j.version>2.9.1</log4j.version>
 		<lombok.version>1.16.18</lombok.version>
 		<cloud.version>Dalston.SR1</cloud.version>
 		<boot.version>1.5.9.RELEASE</boot.version>
@@ -85,8 +85,13 @@
 				<scope>test</scope>
 			</dependency>
 			<dependency>
-				<groupId>log4j</groupId>
-				<artifactId>log4j</artifactId>
+				<groupId>org.apache.logging.log4j</groupId>
+				<artifactId>log4j-core</artifactId>
+				<version>${log4j.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.apache.logging.log4j</groupId>
+				<artifactId>log4j-api</artifactId>
 				<version>${log4j.version}</version>
 			</dependency>
 			<dependency>
@@ -109,8 +114,34 @@
 				<artifactId>guava</artifactId>
 				<version>19.0</version>
 			</dependency>
-		</dependencies>
 
+			<!--Elasticsearch-->
+			<dependency>
+				<groupId>org.elasticsearch</groupId>
+				<artifactId>elasticsearch</artifactId>
+				<version>6.3.2</version>
+			</dependency>
+
+			<dependency>
+				<groupId>org.elasticsearch.client</groupId>
+				<artifactId>transport</artifactId>
+				<version>6.3.2</version>
+			</dependency>
+
+			<dependency>
+				<groupId>org.elasticsearch.client</groupId>
+				<artifactId>elasticsearch-rest-high-level-client</artifactId>
+				<version>6.3.2</version>
+			</dependency>
+			<!--  Elasticsearch -->
+
+			<!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
+			<dependency>
+				<groupId>com.alibaba</groupId>
+				<artifactId>fastjson</artifactId>
+				<version>1.2.49</version>
+			</dependency>
+		</dependencies>
 	</dependencyManagement>
 
 	<build>
@@ -133,5 +164,6 @@
 			</plugin>
 		</plugins>
 	</build>
+
 </project>
 
