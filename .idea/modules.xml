@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/micro-provider-dept-8002/micro-provider-dept-8002.iml" filepath="$PROJECT_DIR$/micro-provider-dept-8002/micro-provider-dept-8002.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro-provider-dept-8003/micro-provider-dept-8003.iml" filepath="$PROJECT_DIR$/micro-provider-dept-8003/micro-provider-dept-8003.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro-provider-elasticsearch-9500/micro-provider-elasticsearch-9500.iml" filepath="$PROJECT_DIR$/micro-provider-elasticsearch-9500/micro-provider-elasticsearch-9500.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-springboot-demo/micro-springboot-demo.iml" filepath="$PROJECT_DIR$/micro-springboot-demo/micro-springboot-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro-zuul-api-gateway/micro-zuul-api-gateway.iml" filepath="$PROJECT_DIR$/micro-zuul-api-gateway/micro-zuul-api-gateway.iml" />
     </modules>
   </component>

@@ -23,6 +23,7 @@
 		<module>micro-hystrix-dashboard</module>
 		<module>micro-zuul-api-gateway</module>
 		<module>micro-provider-elasticsearch-9500</module>
+		<module>micro-springboot-demo</module>
 	</modules>
 
 	<properties>
@@ -39,6 +40,13 @@
 
 	<dependencyManagement>
 		<dependencies>
+			<!-- 使用注释处理器生成自己的元数据： 自动生成配置文件中映射的提示信息 -->
+			<dependency>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-configuration-processor</artifactId>
+				<optional>true</optional>
+				<version>2.0.3.RELEASE</version>
+			</dependency>
 			<dependency>
 				<groupId>org.springframework.cloud</groupId>
 				<artifactId>spring-cloud-dependencies</artifactId>

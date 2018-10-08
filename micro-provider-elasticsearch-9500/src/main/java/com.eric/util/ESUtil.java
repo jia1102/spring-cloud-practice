@@ -81,7 +81,7 @@ public class ESUtil {
     }
 
     /**
-     * TODO: 数据添加，正定ID
+     * TODO: 数据添加，指定ID
      *
      * @param jsonObject 要增加的数据
      * @param index      索引，类似数据库

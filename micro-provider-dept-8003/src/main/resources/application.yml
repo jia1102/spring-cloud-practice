@@ -30,7 +30,7 @@ eureka:
       defaultZone: http://Eureka7000:7003/eureka/,http://Eureka7001:7001/eureka/,http://Eureka7002:7002/eureka/
   instance:
     instanceId: ${spring.application.name}_${server.port}
-    prefer-ip-address: true     #访问路径可以显示IP地址
+    prefer-ip-address: true     #访问路径可以显示IP地址,松散绑定
 #    leaseRenewalIntervalInSeconds: 5 #租期更新时间间隔（默认30秒）
 #    leaseExpirationDurationInSeconds: 15 #租期到期时间（默认90秒）
 
