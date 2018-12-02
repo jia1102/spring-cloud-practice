@@ -16,7 +16,7 @@ import java.util.Map;
 /**
  * @Des: 动态为类添加属性的反射方法
  */
-@Log4j
+//@Log4j
 public class ReflectUtil {
 
     public static Object getTarget(Object dest, Map<String, Object> addProperties) {

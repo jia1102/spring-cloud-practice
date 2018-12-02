@@ -41,7 +41,7 @@ public class PersonESController {
             return new ResponseEntity(result.getId(), HttpStatus.OK);
         } catch (IOException e) {
             e.printStackTrace();
-            return new ResponseEntity(HttpStatus.INTERNAL_SERVER_ERROR);
+             return new ResponseEntity(HttpStatus.INTERNAL_SERVER_ERROR);
         }
     }
 

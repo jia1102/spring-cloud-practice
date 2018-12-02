@@ -22,6 +22,8 @@
         <module name="micro-provider-dept-8003" />
         <module name="micro-provider-elasticsearch-9500" />
         <module name="micro-springboot-demo" />
+        <module name="micro-springboot-demo-datasource" />
+        <module name="micro-springboot-demo-nosql" />
         <module name="micro-zuul-api-gateway" />
       </profile>
     </annotationProcessing>
@@ -43,6 +45,8 @@
       <module name="micro-provider-dept-8003" target="1.8" />
       <module name="micro-provider-elasticsearch-9500" target="1.8" />
       <module name="micro-springboot-demo" target="1.8" />
+      <module name="micro-springboot-demo-datasource" target="1.8" />
+      <module name="micro-springboot-demo-nosql" target="1.8" />
       <module name="micro-zuul-api-gateway" target="1.8" />
     </bytecodeTargetLevel>
   </component>

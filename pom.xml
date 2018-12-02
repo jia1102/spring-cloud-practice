@@ -24,6 +24,8 @@
 		<module>micro-zuul-api-gateway</module>
 		<module>micro-provider-elasticsearch-9500</module>
 		<module>micro-springboot-demo</module>
+		<module>micro-springboot-demo-nosql</module>
+		<module>micro-springboot-demo-datasource</module>
 	</modules>
 
 	<properties>
@@ -34,8 +36,10 @@
 		<log4j.version>2.9.1</log4j.version>
 		<lombok.version>1.16.18</lombok.version>
 		<cloud.version>Dalston.SR1</cloud.version>
-		<boot.version>1.5.9.RELEASE</boot.version>
+		<boot.version>1.5.13.RELEASE</boot.version>
 		<lombok.version>1.16.18</lombok.version>
+		<thymeleaf.version>2.0.6.RELEASE</thymeleaf.version>
+		<thymeleaf-layout-dialect.version>2.2.2</thymeleaf-layout-dialect.version>
 	</properties>
 
 	<dependencyManagement>
@@ -60,6 +64,11 @@
 				<version>${boot.version}</version>
 				<type>pom</type>
 				<scope>import</scope>
+			</dependency>
+			<dependency>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-loader-tools</artifactId>
+				<version>${boot.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>mysql</groupId>
@@ -148,6 +157,26 @@
 				<groupId>com.alibaba</groupId>
 				<artifactId>fastjson</artifactId>
 				<version>1.2.49</version>
+			</dependency>
+
+			<dependency>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-starter-thymeleaf</artifactId>
+				<version>${thymeleaf.version}</version>
+			</dependency>
+
+			<!--引入jquery-webjar-->
+			<dependency>
+				<groupId>org.webjars</groupId>
+				<artifactId>jquery</artifactId>
+				<version>3.3.1</version>
+			</dependency>
+
+			<!--引入bootstrap-->
+			<dependency>
+				<groupId>org.webjars</groupId>
+				<artifactId>bootstrap</artifactId>
+				<version>4.0.0</version>
 			</dependency>
 		</dependencies>
 	</dependencyManagement>

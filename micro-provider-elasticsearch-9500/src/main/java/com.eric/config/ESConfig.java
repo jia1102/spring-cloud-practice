@@ -58,9 +58,8 @@ public class ESConfig {
             transportClient = new PreBuiltTransportClient(esSetting);
             TransportAddress transportAddress = new TransportAddress(InetAddress.getByName(hostName), Integer.valueOf(port));
             transportClient.addTransportAddresses(transportAddress);
-
         } catch (Exception e) {
-            LOGGER.error("elasticsearch TransportClient create error!!!", e);
+            LOGGER.error("Elasticsearch TransportClient create error!!!", e);
         }
 
         return transportClient;

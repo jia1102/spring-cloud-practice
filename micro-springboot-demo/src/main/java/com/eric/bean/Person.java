@@ -1,6 +1,6 @@
 package com.eric.bean;
 
-import com.eric.config.MyYmlPropertyFactory;
+//import com.eric.config.MyYmlPropertyFactory;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.PropertySource;
 import org.springframework.stereotype.Component;
@@ -13,7 +13,7 @@ import java.util.Map;
  * ConfigurationProperties 将本类中的所有属性和配置文件中相关的配置进行绑定
  * prefix = "person" 配置文件中具体的属性进行一一映射
  */
-@PropertySource(value = {"classpath:person2.yml"}, factory = MyYmlPropertyFactory.class)
+//@PropertySource(value = {"classpath:person2.yml"}, factory = MyYmlPropertyFactory.class)
 @Component
 @ConfigurationProperties(prefix = "person")
 //@Validated
