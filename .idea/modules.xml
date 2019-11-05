@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/micro-eureka-7001/micro-eureka-7001.iml" filepath="$PROJECT_DIR$/micro-eureka-7001/micro-eureka-7001.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro-eureka-7002/micro-eureka-7002.iml" filepath="$PROJECT_DIR$/micro-eureka-7002/micro-eureka-7002.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro-hystrix-dashboard/micro-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/micro-hystrix-dashboard/micro-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-hystrix-turbine/micro-hystrix-turbine.iml" filepath="$PROJECT_DIR$/micro-hystrix-turbine/micro-hystrix-turbine.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro-provider-dept-8000/micro-provider-dept-8000.iml" filepath="$PROJECT_DIR$/micro-provider-dept-8000/micro-provider-dept-8000.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro-provider-dept-8001/micro-provider-dept-8001.iml" filepath="$PROJECT_DIR$/micro-provider-dept-8001/micro-provider-dept-8001.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro-provider-dept-8002/micro-provider-dept-8002.iml" filepath="$PROJECT_DIR$/micro-provider-dept-8002/micro-provider-dept-8002.iml" />

@@ -1,181 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfe23127-59ef-4c95-a6a6-ad121891023a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_analysis_6_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_commons_6_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_tree_6_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_5_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jetty_1_5_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_0_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bootstrap_4_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_3_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_npm_popper_js_1_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-datasource/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-datasource/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-datasource/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-datasource/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-datasource/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-datasource/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-datasource/src/main/java/com/eric/MicroSpringbootDemoDatasourceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-datasource/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-datasource/src/test/java/com/eric/MicroProviderDemoDatasourceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/micro-springboot-demo-nosql.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/java/com/eric/DemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/java/com/eric/config/MyMvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/java/com/eric/controller/HelloTestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/resources/resources/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/resources/static/asserts/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/resources/static/asserts/css/dashboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/resources/static/asserts/css/signin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/resources/static/asserts/img/bootstrap-solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/resources/static/asserts/js/Chart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/resources/static/asserts/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/resources/static/asserts/js/feather.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/resources/static/asserts/js/jquery-3.2.1.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/resources/static/asserts/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/resources/templates/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/resources/templates/dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/resources/templates/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/resources/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/src/test/java/com/eric/DemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/java/com/eric/bean/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/java/com/eric/bean/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/java/com/eric/config/MyMvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/java/com/eric/controller/HelloTestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/java/com/eric/dao/DepartmentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/java/com/eric/dao/EmployeeDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/java/com/eric/service/HelloService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/resources/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/resources/resources/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/resources/static/asserts/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/resources/static/asserts/css/dashboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/resources/static/asserts/css/signin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/resources/static/asserts/img/bootstrap-solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/resources/static/asserts/js/Chart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/resources/static/asserts/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/resources/static/asserts/js/feather.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/resources/static/asserts/js/jquery-3.2.1.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/resources/static/asserts/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/resources/templates/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/resources/templates/dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/resources/templates/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/resources/templates/login.html" afterDir="false" />
+    <list default="true" id="dfe23127-59ef-4c95-a6a6-ad121891023a" name="Default" comment="测试">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_49.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_turbine_turbine_core_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_1_4_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_turbine_1_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_turbine_1_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-common/target/Micro-Maven.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-common/target/classes/com/eric/common/DateUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-config-client-7700/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-config-client-7700/target/classes/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-config-client-7700/target/classes/com/eric/ConfigClient7700App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-config-client-7700/target/classes/com/eric/controller/MicroConfigClientPingController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-config-server-7600/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-config-server-7600/target/classes/com/eric/ConfigServer7600App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-9100/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-9100/target/classes/com/eric/DeptConsumer9100App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-9100/target/classes/com/eric/cfgbeans/ConfigBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-9100/target/classes/com/eric/controller/DeptConsumerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/service/DeptConsumerFeignWithoutFactoryClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/Micro-Maven.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/classes/META-INF/additional-spring-configuration-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/classes/com/eric/DeptConsumer9200App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/classes/com/eric/config/RuleConfigBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/classes/com/eric/controller/DeptConsumerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/classes/com/eric/service/DeptConsumerFeignClient$DeptConsumerFeignClientFallbackFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/classes/com/eric/service/DeptConsumerFeignClient$DeptConsumerFeignClientFallbackFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/classes/com/eric/service/DeptConsumerFeignClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/classes/com/eric/service/DeptConsumerFeignWithoutFactoryClient$DeptConsumerFeignClientFallback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/classes/com/eric/service/DeptConsumerFeignWithoutFactoryClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-entities/target/Micro-Maven.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-entities/target/classes/com/eric/entities/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-entities/target/classes/com/eric/entities/util/EsPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-entities/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-entities/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-entities/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-eureka-7000/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-eureka-7000/target/classes/com/eric/Eureka7000App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-eureka-7001/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-eureka-7001/target/classes/com/eric/Eureka7001App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-eureka-7002/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-eureka-7002/target/classes/com/eric/Eureka7002App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-hystrix-dashboard/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-hystrix-dashboard/target/classes/com/eric/HystrixDashboardApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-hystrix-dashboard/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-hystrix-dashboard/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-hystrix-turbine/micro-hystrix-turbine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-hystrix-turbine/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-hystrix-turbine/src/main/java/com/eric/HystrixTurbineApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-hystrix-turbine/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-hystrix-turbine/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-hystrix-turbine/target/classes/com/eric/HystrixTurbineApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/target/classes/com/eric/MicroProviderDeptApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/target/classes/com/eric/controller/DeptController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/target/classes/com/eric/dao/DeptDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/target/classes/com/eric/service/DeptService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/target/classes/com/eric/service/impl/DeptServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/target/classes/mybatis/mapper/DeptMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8000/target/classes/mybatis/mybatis.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/target/classes/com/eric/MicroProviderDept8002App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/target/classes/com/eric/controller/DeptController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/target/classes/com/eric/dao/DeptDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/target/classes/com/eric/service/DeptService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/target/classes/com/eric/service/impl/DeptServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/target/classes/mybatis/mapper/DeptMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-provider-dept-8002/target/classes/mybatis/mybatis.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-provider-elasticsearch-9500/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-provider-elasticsearch-9500/target/classes/com/eric/MicroProviderElasticsearchApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-provider-elasticsearch-9500/target/classes/com/eric/config/ESConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-provider-elasticsearch-9500/target/classes/com/eric/controller/EsTestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-provider-elasticsearch-9500/target/classes/com/eric/controller/PersonESController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-provider-elasticsearch-9500/target/classes/com/eric/util/ESUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/target/classes/com/eric/DemoApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/target/classes/com/eric/config/MyMvcConfig$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/target/classes/com/eric/config/MyMvcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/target/classes/com/eric/controller/HelloTestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/target/classes/resources/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/target/classes/static/asserts/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/target/classes/static/asserts/css/dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/target/classes/static/asserts/css/signin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/target/classes/static/asserts/img/bootstrap-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/target/classes/static/asserts/js/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/target/classes/static/asserts/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/target/classes/static/asserts/js/feather.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/target/classes/static/asserts/js/jquery-3.2.1.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/target/classes/static/asserts/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/target/classes/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/target/classes/templates/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/target/classes/templates/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/target/classes/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-springboot-demo-nosql/target/test-classes/com/eric/DemoApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-zuul-api-gateway/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-zuul-api-gateway/target/classes/com/eric/ApiGatewayApp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_11_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_8_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_8_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_smile_2_8_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_smile_2_8_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_8_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_8_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_8_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_8_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_8_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_8_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_8_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_8_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_31.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_31.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_31.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_31.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_31.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_31.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_annotations_9_4_7_v20170914.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_annotations_9_4_10_v20180503.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_client_9_4_7_v20170914.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_client_9_4_10_v20180503.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_9_4_7_v20170914.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_9_4_10_v20180503.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_7_v20170914.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_10_v20180503.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_7_v20170914.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_10_v20180503.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_plus_9_4_7_v20170914.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_plus_9_4_10_v20180503.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_4_7_v20170914.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_4_10_v20180503.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_4_7_v20170914.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlets_9_4_10_v20180503.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_4_7_v20170914.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_4_10_v20180503.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlets_9_4_7_v20170914.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_4_10_v20180503.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_7_v20170914.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_10_v20180503.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_9_4_7_v20170914.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_9_4_10_v20180503.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_9_4_7_v20170914.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_9_4_10_v20180503.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_javax_websocket_client_impl_9_4_7_v20170914.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_javax_websocket_client_impl_9_4_10_v20180503.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_javax_websocket_server_impl_9_4_7_v20170914.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_javax_websocket_server_impl_9_4_10_v20180503.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_4_7_v20170914.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_4_10_v20180503.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_4_7_v20170914.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_4_10_v20180503.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_4_7_v20170914.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_4_10_v20180503.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_server_9_4_7_v20170914.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_servlet_9_4_10_v20180503.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_servlet_9_4_7_v20170914.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_server_9_4_10_v20180503.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_27_incubating.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_commons_5_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_tree_5_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_13_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_5_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_5_13_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_13_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_1_5_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_1_5_13_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_13_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_5_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_13_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_1_5_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_1_5_13_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_13_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jetty_1_5_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_13_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_13_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_13_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_13_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_13_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_4_2_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_4_2_6_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_13_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_17_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_13_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_17_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_13_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_17_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_13_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_17_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_13_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_17_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_13_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_17_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_13_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_17_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_13_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_17_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_13_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_17_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_13_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_17_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_13_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_17_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_1_3_1_RELEASE.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/micro-common/micro-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-common/micro-common.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-common/src/main/java/com.eric/common/ReflectUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-common/src/main/java/com.eric/common/ReflectUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-common/target/classes/com/eric/common/ReflectUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/micro-common/target/classes/com/eric/common/ReflectUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-config-client-7700/micro-config-client-7700.iml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-config-client-7700/micro-config-client-7700.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-config-server-7600/micro-config-server-7600.iml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-config-server-7600/micro-config-server-7600.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-consumer-dept-9100/micro-consumer-dept-9100.iml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-consumer-dept-9100/micro-consumer-dept-9100.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-config-client-7700/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-config-client-7700/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-config-server-7600/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-config-server-7600/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-consumer-dept-9100/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-consumer-dept-9100/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/micro-consumer-dept-feign-9200.iml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/micro-consumer-dept-feign-9200.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-entities/micro-entities.iml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-entities/micro-entities.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-eureka-7000/micro-eureka-7000.iml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-eureka-7000/micro-eureka-7000.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-eureka-7001/micro-eureka-7001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-eureka-7001/micro-eureka-7001.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-eureka-7002/micro-eureka-7002.iml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-eureka-7002/micro-eureka-7002.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/DeptConsumer9200App.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/DeptConsumer9200App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/config/RuleConfigBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/config/RuleConfigBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/controller/DeptConsumerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/controller/DeptConsumerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/service/DeptConsumerFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/service/DeptConsumerFeignClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-eureka-7000/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-eureka-7000/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-eureka-7001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-eureka-7001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-eureka-7002/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-eureka-7002/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/micro-hystrix-dashboard/micro-hystrix-dashboard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-hystrix-dashboard/micro-hystrix-dashboard.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-provider-dept-8000/micro-provider-dept-8000.iml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-provider-dept-8000/micro-provider-dept-8000.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-provider-dept-8000/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-provider-dept-8000/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-provider-dept-8001/micro-provider-dept-8001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-provider-dept-8001/micro-provider-dept-8001.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-provider-dept-8002/micro-provider-dept-8002.iml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-provider-dept-8002/micro-provider-dept-8002.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-provider-dept-8003/micro-provider-dept-8003.iml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-provider-dept-8003/micro-provider-dept-8003.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-provider-dept-8003/src/main/java/com/eric/service/DeptService.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-provider-dept-8003/src/main/java/com/eric/service/DeptService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-hystrix-dashboard/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-hystrix-dashboard/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-hystrix-dashboard/src/main/java/com/eric/HystrixDashboardApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-hystrix-dashboard/src/main/java/com/eric/HystrixDashboardApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-hystrix-dashboard/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-hystrix-dashboard/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-provider-dept-8002/src/main/java/com/eric/MicroProviderDept8002App.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-provider-dept-8002/src/main/java/com/eric/MicroProviderDept8002App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-provider-dept-8002/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-provider-dept-8002/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/micro-provider-elasticsearch-9500/micro-provider-elasticsearch-9500.iml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-provider-elasticsearch-9500/micro-provider-elasticsearch-9500.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-provider-elasticsearch-9500/src/main/java/com.eric/config/ESConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-provider-elasticsearch-9500/src/main/java/com.eric/config/ESConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-provider-elasticsearch-9500/src/main/java/com.eric/controller/PersonESController.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-provider-elasticsearch-9500/src/main/java/com.eric/controller/PersonESController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-springboot-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-springboot-demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-springboot-demo/src/main/java/com/eric/MicroSpringbootDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/java/com/eric/MicroSpringbootDemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-springboot-demo/src/main/java/com/eric/bean/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/java/com/eric/bean/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-springboot-demo/src/main/java/com/eric/config/MyYmlPropertyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/java/com/eric/config/MyYmlPropertyFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-springboot-demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-springboot-demo/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-springboot-demo/src/test/java/com/eric/MicroSpringbootDemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-springboot-demo/src/test/java/com/eric/MicroSpringbootDemoApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/micro-zuul-api-gateway/micro-zuul-api-gateway.iml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-zuul-api-gateway/micro-zuul-api-gateway.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-zuul-api-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-zuul-api-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-zuul-api-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-zuul-api-gateway/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/micro-springboot-demo/target/" />
@@ -199,6 +160,7 @@
     <ignored path="$PROJECT_DIR$/micro-eureka-7000/target/" />
     <ignored path="$PROJECT_DIR$/micro-provider-demo-datasource/target/" />
     <ignored path="$PROJECT_DIR$/micro-springboot-demo-datasource/target/" />
+    <ignored path="$PROJECT_DIR$/micro-hystrix-turbine/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -208,93 +170,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/resources/application.properties">
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/micro-config-server-7600/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="276">
+              <caret line="15" column="55" lean-forward="true" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ESUtil.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/micro-provider-elasticsearch-9500/src/main/java/com.eric/util/ESUtil.java">
+      <file leaf-file-name="DateUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/micro-common/src/main/java/com.eric/common/DateUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-79">
-              <caret line="181" column="28" selection-start-line="181" selection-start-column="8" selection-end-line="181" selection-end-column="28" />
+            <state relative-caret-position="342">
+              <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/micro-provider-elasticsearch-9500/pom.xml">
+      <file leaf-file-name="ApiGatewayApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/micro-zuul-api-gateway/src/main/java/com/eric/ApiGatewayApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="13" selection-start-line="4" selection-start-column="4" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+            <state relative-caret-position="171">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/micro-provider-dept-8003/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/micro-zuul-api-gateway/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="8" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DemoApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/java/com/eric/DemoApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataSourceAutoConfiguration.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Repository/org/springframework/boot/spring-boot-autoconfigure/1.5.13.RELEASE/spring-boot-autoconfigure-1.5.13.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceAutoConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="75" column="36" selection-start-line="75" selection-start-column="36" selection-end-line="75" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataSourceInitializer.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Repository/org/springframework/boot/spring-boot-autoconfigure/1.5.13.RELEASE/spring-boot-autoconfigure-1.5.13.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceInitializer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1197">
-              <caret line="94" column="37" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataSourceProperties.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Repository/org/springframework/boot/spring-boot-autoconfigure/1.5.13.RELEASE/spring-boot-autoconfigure-1.5.13.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceProperties.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+            <state relative-caret-position="163">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>micro-springboot-demo-datasource</find>
       <find>runSc</find>
+      <find>loadBalancerRequestFactory</find>
+      <find>hystrix</find>
+      <find>&lt;artifactId&gt;fastjson&lt;/artifactId&gt;</find>
+      <find>micro-entities</find>
+      <find>@EnableCircuitBreaker</find>
+      <find>info</find>
+      <find>DeptConsumerFeignClient</find>
+      <find>setUrlMappings</find>
+      <find>Cluster via Turbine (default cluster): http://turbine-hos</find>
+      <find>sendToMonitor</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -313,8 +248,37 @@
         <option value="$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/resources/application-datasource.yml" />
         <option value="$PROJECT_DIR$/micro-provider-demo-datasource/pom.xml" />
         <option value="$PROJECT_DIR$/micro-provider-demo-datasource/src/main/java/com/eric/MicroProviderDemoDatasourceApplication.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/micro-springboot-demo-datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-provider-dept-8002/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/micro-eureka-7000/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/micro-eureka-7001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/micro-eureka-7002/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/config/RuleConfigBean.java" />
+        <option value="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/config/FeignConfiguration.java" />
+        <option value="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/service/DeptConsumerFeignClient.java" />
+        <option value="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/controller/DeptConsumerController.java" />
+        <option value="$PROJECT_DIR$/micro-provider-dept-8002/src/main/java/com/eric/MicroProviderDept8002App.java" />
+        <option value="$PROJECT_DIR$/micro-consumer-dept-feign-9200/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/service/DeptConsumerFeignWithoutFactoryClient.java" />
+        <option value="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/DeptConsumer9200App.java" />
+        <option value="$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/micro-hystrix-dashboard/src/main/java/com/eric/HystrixDashboardApp.java" />
+        <option value="$PROJECT_DIR$/micro-hystrix-dashboard/src/main/java/com/eric/config/HystrixMetricsConfiguration.java" />
+        <option value="$PROJECT_DIR$/micro-hystrix-turbine/src/main/java/com/eric/HystrixDashboardApp.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-hystrix-turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-hystrix-turbine/src/main/java/com/eric/HystrixTurbineApp.java" />
+        <option value="$PROJECT_DIR$/micro-hystrix-dashboard/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/micro-hystrix-dashboard/src/main/java/com/eric/config/HystrixDashboardConfiguration.java" />
+        <option value="$PROJECT_DIR$/micro-hystrix-turbine/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/micro-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-zuul-api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-zuul-api-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/micro-config-client-7700/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/micro-config-client-7700/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/micro-consumer-dept-9100/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/micro-common/src/main/java/com.eric/common/ReflectUtil.java" />
+        <option value="$PROJECT_DIR$/micro-config-server-7600/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -344,21 +308,12 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="micro-consumer-dept-9100" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="micro-hystrix-dashboard" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="micro-springboot-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="micro-springboot-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="micro-hystrix-dashboard" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="micro-springboot-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
@@ -379,7 +334,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -392,102 +346,25 @@
             <path>
               <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
               <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-provider-elasticsearch-9500" type="462c0819:PsiDirectoryNode" />
+              <item name="micro-config-server-7600" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
               <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-provider-elasticsearch-9500" type="462c0819:PsiDirectoryNode" />
+              <item name="micro-config-server-7600" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
               <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-provider-elasticsearch-9500" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-provider-elasticsearch-9500" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-provider-elasticsearch-9500" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com.eric" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-provider-elasticsearch-9500" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com.eric" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-provider-elasticsearch-9500" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com.eric" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-springboot-demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-springboot-demo-nosql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-springboot-demo-nosql" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-springboot-demo-nosql" type="462c0819:PsiDirectoryNode" />
+              <item name="micro-config-server-7600" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
               <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-springboot-demo-nosql" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-springboot-demo-nosql" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="eric" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Micro-Maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Micro-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-springboot-demo-nosql" type="462c0819:PsiDirectoryNode" />
+              <item name="micro-config-server-7600" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -496,6 +373,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -505,17 +383,23 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
-    <property name="SearchEverywhereHistoryKey" value="IndexWriter&#9;PSI&#9;JAVA://com.sun.tools.doclets.formats.html.AbstractIndexWriter" />
+    <property name="SearchEverywhereHistoryKey" value="sendToMonitor&#9;null&#9;null&#10;IndexWriter&#9;PSI&#9;JAVA://com.sun.tools.doclets.formats.html.AbstractIndexWriter" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4862069" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace_ideal_practise\Micro-Maven" />
+      <recent name="D:\workspace_ideal_practise\Micro-Maven\micro-consumer-dept-feign-9200\src\main\java\com\eric\service" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -529,18 +413,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HelloTestController">
-    <configuration name="HelloTestController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.eric.controller.HelloTestController" />
-      <module name="micro-springboot-demo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.eric.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.Eureka7002App">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -560,14 +433,98 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="MicroSpringbootDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="micro-springboot-demo" />
+    <configuration name="ApiGatewayApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="micro-zuul-api-gateway" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.eric.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eric.ApiGatewayApp" />
+    </configuration>
+    <configuration name="ConfigClient7700App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="micro-config-client-7700" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eric.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eric.ConfigClient7700App" />
+    </configuration>
+    <configuration name="ConfigServer7600App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="micro-config-server-7600" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eric.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eric.ConfigServer7600App" />
+    </configuration>
+    <configuration name="DeptConsumer9200App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="micro-consumer-dept-feign-9200" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eric.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eric.DeptConsumer9200App" />
+    </configuration>
+    <configuration name="Eureka7000App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="micro-eureka-7000" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eric.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eric.Eureka7000App" />
+    </configuration>
+    <configuration name="Eureka7001App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="micro-eureka-7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eric.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eric.Eureka7001App" />
+    </configuration>
+    <configuration name="Eureka7002App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="micro-eureka-7002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eric.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eric.Eureka7002App" />
+    </configuration>
+    <configuration name="HystrixDashboardApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="micro-hystrix-dashboard" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eric.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eric.HystrixDashboardApp" />
+    </configuration>
+    <configuration name="MicroProviderDept8002App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="micro-provider-dept-8002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eric.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eric.MicroProviderDept8002App" />
+    </configuration>
+    <configuration name="MicroSpringbootDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-springboot-demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.eric.MicroSpringbootDemoApplication" />
     </configuration>
     <configuration name="MicroSpringbootDemoDatasourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -597,14 +554,22 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.MicroSpringbootDemoDatasourceApplication" />
+      <item itemvalue="Spring Boot.HystrixDashboardApp" />
       <item itemvalue="Spring Boot.MicroSpringbootDemoApplication" />
-      <item itemvalue="Application.HelloTestController" />
+      <item itemvalue="Spring Boot.MicroSpringbootDemoDatasourceApplication" />
+      <item itemvalue="Spring Boot.Eureka7000App" />
+      <item itemvalue="Spring Boot.Eureka7001App" />
+      <item itemvalue="Spring Boot.Eureka7002App" />
+      <item itemvalue="Spring Boot.ApiGatewayApp" />
+      <item itemvalue="Spring Boot.MicroProviderDept8002App" />
+      <item itemvalue="Spring Boot.DeptConsumer9200App" />
+      <item itemvalue="Spring Boot.ConfigServer7600App" />
+      <item itemvalue="Spring Boot.ConfigClient7700App" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloTestController" />
-        <item itemvalue="Spring Boot.MicroSpringbootDemoApplication" />
+        <item itemvalue="Spring Boot.ConfigServer7600App" />
+        <item itemvalue="Spring Boot.ConfigClient7700App" />
       </list>
     </recent_temporary>
   </component>
@@ -627,49 +592,110 @@
       <workItem from="1542015423397" duration="207000" />
       <workItem from="1542251422953" duration="5836000" />
       <workItem from="1542957039848" duration="2896000" />
-      <workItem from="1543311670220" duration="692000" />
+      <workItem from="1543311670220" duration="2139000" />
+      <workItem from="1544774169045" duration="5102000" />
+      <workItem from="1545272892140" duration="16924000" />
+      <workItem from="1545375888524" duration="7909000" />
+      <workItem from="1545724844622" duration="18277000" />
+      <workItem from="1545797034277" duration="11442000" />
+      <workItem from="1545875758858" duration="22545000" />
+      <workItem from="1546567717520" duration="14785000" />
+      <workItem from="1547099690756" duration="1656000" />
+      <workItem from="1564563079924" duration="671000" />
+      <workItem from="1564631576443" duration="89000" />
+      <workItem from="1565059600829" duration="939000" />
+      <workItem from="1568857984976" duration="928000" />
+      <workItem from="1568973614481" duration="530000" />
+      <workItem from="1569482137406" duration="1927000" />
+      <workItem from="1571650353194" duration="1041000" />
+      <workItem from="1571651468572" duration="490000" />
+      <workItem from="1571885778720" duration="15110000" />
+      <workItem from="1572917430561" duration="4360000" />
     </task>
+    <task id="LOCAL-00001" summary="测试">
+      <created>1543742493554</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543742493554</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26826000" />
+    <option name="totallyTimeSpent" value="152998000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50121456" side_tool="true" weight="0.33333334" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.27206478" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="2" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="13" sideWeight="0.50121456" side_tool="true" visible="true" weight="0.23376623" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.27206478" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3877551" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49959514" weight="0.18738404" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Java Enterprise" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49878544" weight="0.3320965" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27643785" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49878544" visible="true" weight="0.23376623" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.3283859" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49878544" weight="0.3320965" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" weight="0.3153989" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3283859" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2736842" />
-      <window_info anchor="right" id="Bean Validation" order="3" />
-      <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3283859" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49878544" weight="0.48608536" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2866397" />
+      <window_info anchor="right" id="Bean Validation" order="8" weight="0.32955465" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25506073" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3283859" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" weight="0.5250464" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3283859" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49878544" weight="0.48608536" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50040483" side_tool="true" visible="true" weight="0.035250463" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3283859" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25506073" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.3283859" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49878544" weight="0.3320965" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.27206478" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34412956" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49959514" weight="0.18738404" />
+      <window_info anchor="right" id="Bean Validation" order="8" weight="0.32955465" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -687,6 +713,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -696,325 +726,354 @@
           <properties />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/Repository/org/elasticsearch/elasticsearch/6.3.2/elasticsearch-6.3.2-sources.jar!/org/elasticsearch/action/support/replication/ReplicationRequestBuilder.java">
+    <entry file="jar://D:/Repository/org/springframework/boot/spring-boot/1.5.13.RELEASE/spring-boot-1.5.13.RELEASE-sources.jar!/org/springframework/boot/web/filter/ApplicationContextHeaderFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        <state relative-caret-position="86">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Repository/org/elasticsearch/elasticsearch/6.3.2/elasticsearch-6.3.2-sources.jar!/org/elasticsearch/transport/TransportResponse.java">
+    <entry file="jar://D:/Repository/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/1.3.1.RELEASE/spring-cloud-netflix-hystrix-dashboard-1.3.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/hystrix/dashboard/HystrixDashboardController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Repository/org/elasticsearch/elasticsearch/6.3.2/elasticsearch-6.3.2-sources.jar!/org/elasticsearch/transport/TransportMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="29" column="38" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Repository/org/elasticsearch/elasticsearch/6.3.2/elasticsearch-6.3.2-sources.jar!/org/elasticsearch/action/ActionResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Repository/org/elasticsearch/elasticsearch/6.3.2/elasticsearch-6.3.2-sources.jar!/org/elasticsearch/action/support/replication/ReplicationResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Repository/org/elasticsearch/elasticsearch/6.3.2/elasticsearch-6.3.2-sources.jar!/org/elasticsearch/action/support/WriteResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Repository/org/elasticsearch/elasticsearch/6.3.2/elasticsearch-6.3.2-sources.jar!/org/elasticsearch/action/DocWriteResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="49" column="82" selection-start-line="49" selection-start-column="82" selection-end-line="49" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Repository/org/elasticsearch/elasticsearch/6.3.2/elasticsearch-6.3.2-sources.jar!/org/elasticsearch/action/index/IndexResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="88" column="47" selection-start-line="88" selection-start-column="47" selection-end-line="88" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/micro-config-server-7600/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/micro-eureka-7001/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/config/RuleConfigBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Repository/com/netflix/ribbon/ribbon-loadbalancer/2.2.2/ribbon-loadbalancer-2.2.2-sources.jar!/com/netflix/loadbalancer/AbstractLoadBalancerRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Repository/com/netflix/ribbon/ribbon-loadbalancer/2.2.2/ribbon-loadbalancer-2.2.2-sources.jar!/com/netflix/loadbalancer/ILoadBalancer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Repository/com/netflix/ribbon/ribbon-loadbalancer/2.2.2/ribbon-loadbalancer-2.2.2-sources.jar!/com/netflix/loadbalancer/RoundRobinRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="50" column="31" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Repository/com/netflix/ribbon/ribbon-loadbalancer/2.2.2/ribbon-loadbalancer-2.2.2-sources.jar!/com/netflix/loadbalancer/DynamicServerListLoadBalancer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1084">
-          <caret line="165" column="36" selection-start-line="165" selection-start-column="29" selection-end-line="165" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Repository/com/netflix/ribbon/ribbon-loadbalancer/2.2.2/ribbon-loadbalancer-2.2.2-sources.jar!/com/netflix/loadbalancer/AbstractLoadBalancer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="54" column="62" selection-start-line="54" selection-start-column="62" selection-end-line="54" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/micro-springboot-demo/src/main/java/com/eric/service/HelloService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/micro-springboot-demo/src/main/resources/beans.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="55" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Repository/org/springframework/spring-context/4.3.17.RELEASE/spring-context-4.3.17.RELEASE-sources.jar!/org/springframework/context/annotation/ImportResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/micro-springboot-demo/src/main/java/com/eric/config/MyYmlPropertyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/micro-springboot-demo/src/main/java/com/eric/config/MyMvcConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="107" column="1" lean-forward="true" selection-start-line="107" selection-start-column="1" selection-end-line="107" selection-end-column="1" />
-          <folding>
-            <element signature="e#6252#6253#0" expanded="true" />
-            <element signature="e#6320#6321#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Repository/com/alibaba/fastjson/1.2.47/fastjson-1.2.47-sources.jar!/com/alibaba/fastjson/JSONObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="58" column="11" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/service/DeptConsumerFeignClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="12" column="124" selection-start-line="12" selection-start-column="86" selection-end-line="12" selection-end-column="124" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/controller/DeptConsumerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Repository/org/springframework/spring-web/4.3.17.RELEASE/spring-web-4.3.17.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="122" column="25" selection-start-line="122" selection-start-column="13" selection-end-line="122" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/micro-consumer-dept-9100/src/main/java/com/eric/controller/DeptConsumerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/micro-provider-dept-8001/src/main/java/com/eric/service/impl/DeptServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/micro-springboot-demo/src/main/java/com/eric/controller/HelloTestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
+        <state relative-caret-position="513">
           <caret line="51" selection-start-line="51" selection-end-line="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/micro-springboot-demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/micro-springboot-demo/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/resources/application-datasource.yml" />
-    <entry file="file://$PROJECT_DIR$/micro-provider-dept-8003/src/main/resources/application.yml">
+    <entry file="jar://D:/Repository/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/1.3.1.RELEASE/spring-cloud-netflix-hystrix-dashboard-1.3.1.RELEASE-sources.jar!/templates/hystrix/index.ftl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="8" />
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/micro-provider-demo-datasource/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/micro-provider-demo-datasource/micro-springboot-demo-datasource.iml" />
-    <entry file="file://$PROJECT_DIR$/micro-provider-demo-datasource/src/main/java/com/eric/MicroSpringbootDemoDatasourceApplication.java" />
-    <entry file="file://$PROJECT_DIR$/micro-provider-demo-datasource/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/micro-provider-elasticsearch-9500/pom.xml">
+    <entry file="jar://D:/Repository/org/springframework/spring-web/4.3.17.RELEASE/spring-web-4.3.17.RELEASE-sources.jar!/org/springframework/web/filter/OncePerRequestFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-hystrix-dashboard/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Repository/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/1.4.5.RELEASE/spring-cloud-netflix-hystrix-dashboard-1.4.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/hystrix/dashboard/HystrixDashboardController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-config-client-7700/src/main/java/com/eric/controller/MicroConfigClientPingController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="54" lean-forward="true" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-provider-dept-8002/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1026" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-consumer-dept-feign-9200/micro-consumer-dept-feign-9200.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-consumer-dept-feign-9200/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="44" selection-start-line="44" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Repository/org/springframework/cloud/spring-cloud-starter-zuul/1.3.1.RELEASE/spring-cloud-starter-zuul-1.3.1.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-eureka-7000/src/main/java/com/eric/Eureka7000App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-config-client-7700/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="13" selection-start-line="4" selection-start-column="4" selection-end-line="8" selection-end-column="13" />
+          <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/micro-springboot-demo/src/main/java/com/eric/MicroSpringbootDemoApplication.java">
+    <entry file="file://D:/Repository/org/springframework/cloud/spring-cloud-starter-config/1.3.1.RELEASE/spring-cloud-starter-config-1.3.1.RELEASE.pom">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
+        <state relative-caret-position="-570" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/micro-springboot-demo-datasource/pom.xml">
+    <entry file="file://$PROJECT_DIR$/micro-zuul-api-gateway/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="342">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/DeptConsumer9200App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+        <state relative-caret-position="171">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/java/com/eric/DemoApplication.java">
+    <entry file="file://$PROJECT_DIR$/micro-provider-dept-8000/src/main/java/com/eric/controller/DeptController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Repository/org/springframework/boot/spring-boot-autoconfigure/1.5.13.RELEASE/spring-boot-autoconfigure-1.5.13.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceProperties.java">
+    <entry file="file://$PROJECT_DIR$/micro-provider-dept-8000/src/main/java/com/eric/service/impl/DeptServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        <state relative-caret-position="114">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Repository/org/springframework/boot/spring-boot-autoconfigure/1.5.13.RELEASE/spring-boot-autoconfigure-1.5.13.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceAutoConfiguration.java">
+    <entry file="file://$PROJECT_DIR$/micro-hystrix-turbine/src/main/java/com/eric/HystrixTurbineApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="75" column="36" selection-start-line="75" selection-start-column="36" selection-end-line="75" selection-end-column="36" />
+        <state relative-caret-position="190">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Repository/org/springframework/spring-context/4.3.17.RELEASE/spring-context-4.3.17.RELEASE-sources.jar!/org/springframework/context/ApplicationEvent.java">
+    <entry file="file://D:/Repository/org/springframework/cloud/spring-cloud-config-server/1.3.1.RELEASE/spring-cloud-config-server-1.3.1.RELEASE.pom">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        <state relative-caret-position="-456" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-config-server-7600/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Repository/org/springframework/boot/spring-boot-autoconfigure/1.5.13.RELEASE/spring-boot-autoconfigure-1.5.13.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceInitializedEvent.java">
+    <entry file="file://$PROJECT_DIR$/micro-config-client-7700/src/main/java/com/eric/ConfigClient7700App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Repository/org/springframework/spring-context/4.3.17.RELEASE/spring-context-4.3.17.RELEASE-sources.jar!/org/springframework/context/ApplicationEventPublisher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Repository/org/springframework/boot/spring-boot-autoconfigure/1.5.13.RELEASE/spring-boot-autoconfigure-1.5.13.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="94" column="37" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/micro-springboot-demo-nosql/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="114">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/micro-provider-elasticsearch-9500/src/main/java/com.eric/util/ESUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-79">
-          <caret line="181" column="28" selection-start-line="181" selection-start-column="8" selection-end-line="181" selection-end-column="28" />
+        <state relative-caret-position="1140">
+          <caret line="91" column="54" selection-start-line="91" selection-start-column="44" selection-end-line="91" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-provider-elasticsearch-9500/src/main/java/com.eric/controller/EsTestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Repository/org/springframework/spring-web/4.3.17.RELEASE/spring-web-4.3.17.RELEASE-sources.jar!/org/springframework/http/ResponseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="76" column="11" selection-start-line="76" selection-start-column="11" selection-end-line="76" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-provider-elasticsearch-9500/src/main/java/com.eric/controller/PersonESController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-provider-dept-8003/src/main/java/com/eric/controller/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-config-client-7700/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-config-client-7700/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-config-server-7600/src/main/java/com/eric/ConfigServer7600App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/service/DeptConsumerFeignClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-consumer-dept-9100/src/main/java/com/eric/DeptConsumer9100App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-consumer-dept-9100/src/main/java/com/eric/cfgbeans/ConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-consumer-dept-9100/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-eureka-7001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-springboot-demo-datasource/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="20" selection-start-line="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-eureka-7000/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-entities/src/main/java/com/eric/entities/util/EsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1577">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-entities/src/main/java/com/eric/entities/Dept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-common/src/main/java/com.eric/common/ReflectUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/controller/DeptConsumerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="21" column="79" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/service/DeptConsumerFeignWithoutFactoryClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-eureka-7002/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-eureka-7002/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-consumer-dept-feign-9200/src/main/java/com/eric/config/RuleConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-consumer-dept-9100/src/main/java/com/eric/controller/DeptConsumerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="57" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="203" selection-start-line="203" selection-end-line="203" />
+          <folding>
+            <element signature="n#modules#0;n#project#0;n#!!top" />
+            <element signature="n#properties#0;n#project#0;n#!!top" />
+            <element signature="n#dependencyManagement#0;n#project#0;n#!!top" />
+            <element signature="n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-common/src/main/java/com.eric/common/DateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-zuul-api-gateway/src/main/java/com/eric/ApiGatewayApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-zuul-api-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-config-server-7600/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="15" column="55" lean-forward="true" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -1027,7 +1086,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.4862069" />
               </list>
             </option>
           </splitter-proportions>
@@ -1035,11 +1094,11 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring</last-edited>
+          <last-edited>Spring (micro-config-client-7700)|Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.4862069" />
               </list>
             </option>
           </splitter-proportions>
@@ -1050,7 +1109,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.4862069" />
               </list>
             </option>
           </splitter-proportions>
@@ -1062,7 +1121,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.4862069" />
               </list>
             </option>
           </splitter-proportions>
@@ -1070,12 +1129,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>micro-provider-elasticsearch-9500</last-edited>
+          <last-edited>Spring|micro-springboot-demo</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.4862069" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1095,11 +1153,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: org.springframework.boot:spring-boot-test:2.0.3.RELEASE</last-edited>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.6413793" />
+                <option value="0.4862069" />
               </list>
             </option>
           </splitter-proportions>

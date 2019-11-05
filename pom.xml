@@ -21,6 +21,7 @@
 		<module>micro-consumer-dept-9100</module>
 		<module>micro-consumer-dept-feign-9200</module>
 		<module>micro-hystrix-dashboard</module>
+		<module>micro-hystrix-turbine</module>
 		<module>micro-zuul-api-gateway</module>
 		<module>micro-provider-elasticsearch-9500</module>
 		<module>micro-springboot-demo</module>
@@ -116,11 +117,7 @@
 				<artifactId>commons-beanutils</artifactId>
 				<version>1.9.3</version>
 			</dependency>
-			<dependency>
-				<groupId>com.alibaba</groupId>
-				<artifactId>fastjson</artifactId>
-				<version>1.2.47</version>
-			</dependency>
+
 			<dependency>
 				<groupId>cglib</groupId>
 				<artifactId>cglib-nodep</artifactId>
